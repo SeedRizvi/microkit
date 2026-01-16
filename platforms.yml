@@ -82,3 +82,6 @@ platforms:
   - name: zcu102
     cmake_plat: zcu102
     since: 1.3.0
+  - name: kria_k26
+    cmake_plat: kria-k26
+    since: 1.3.0
